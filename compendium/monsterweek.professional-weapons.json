@@ -1,0 +1,51 @@
+{
+	"label": "Le Professionnel: Equipements",
+	"mapping": {
+		"tags": {
+			"path": "data.tags",
+			"converter": "tags"
+		}
+	},
+	"entries": [
+		{
+			"id": "[Normal] .38 revolver",
+			"name": "[Normale] Revolver .38"
+		},
+		{
+			"id": "[Normal] 9mm",
+			"name": "[Normale] 9mm"
+		},
+		{
+			"id": "[Normal] Big knife",
+			"name": "[Normale] Couteau de Chasse"
+		},
+		{
+			"id": "[Normal] Hunting rifle",
+			"name": "[Normale] Fusil de Chasse"
+		},
+		{
+			"id": "[Normal] Shotgun",
+			"name": "[Normale] Fusil à Pompe"
+		},
+		{
+			"id": "[Serious] Assault rifle",
+			"name": "[Lourde] Fusil d'Assaut"
+		},
+		{
+			"id": "[Serious] Grenade launcher",
+			"name": "[Lourde] Lance-Grenades"
+		},
+		{
+			"id": "[Serious] Grenades",
+			"name": "[Lourde] Grenades"
+		},
+		{
+			"id": "[Serious] Sniper rifle",
+			"name": "[Lourde] Fusil de Sniper"
+		},
+		{
+			"id": "[Serious] Submachine gun",
+			"name": "[Lourde] Mitraillette"
+		}
+	]
+}

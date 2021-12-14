@@ -1,0 +1,43 @@
+{
+	"label": "Le Divin: Manœuvres",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "[Divine] Angel Wings",
+			"name": "[Le Divin] Ailes d'Ange",
+			"description": "<p>vous pouvez vous rendre instantanément en n’importe quel endroit que vous avez déjà visité ou jusqu’à une personne que vous connaissez bien. <strong>Quand vous portez une ou deux personnes</strong>, lancez <strong>2🎲+Bizarre</strong>. </p><p>Sur un 10+, vous vous rendez tous où vous le souhaitiez.</p><p>Sur un 7-9, vous n’y parvenez pas. Vous êtes séparés, ou vous réapparaissez au mauvais endroit.</p>"
+		},
+		{
+			"id": "[Divine] Boss from Beyond",
+			"name": "[Le Divin] Maître de l'Au-Delà",
+			"description": "<p><strong>Au début de chaque mystère</strong>, lancez <strong>2🎲+Bizarre</strong>.</p><p>Sur un 10+, vos supérieurs vous demandent d’exécuter une tâche simple.</p><p>Sur un 7-9, la mission est compliquée ou difficile. Dans tous les cas, posez-leur une question de la manœuvre enquêter sur un mystère sur-le-champ.</p><p>En cas d’échec, il vous est demandé de faire quelque chose de terrible. Si vous ne faites pas ce qui vous a été ordonné, vous ne pouvez plus utiliser cette manœuvre jusqu’à ce que vous ayez racheté votre échec.</p>"
+		},
+		{
+			"id": "[Divine] Cast Out Evil",
+			"name": "[Le Divin] Rejet du Mal",
+			"description": "<p>Vous pouvez <strong>bannir une créature surnaturelle</strong>. Lancez <strong>2🎲+Coriace</strong>.</p><p>Sur un 10+, la cible est bannie.</p><p>Sur un 7-9, l’opération demande un peu de temps, si bien que la créature a le temps d’effectuer une ou deux actions. Dans tous les cas, la créature bannie ne subit pas de blessures, et vous n’avez aucun contrôle sur l’endroit où elle se rend. Cette manœuvre peut être utilisée sur les chasseurs surnaturels (comme le Monstre).</p><p>En cas d’échec, quelque chose l’empêche de partir. Pas de chance…</p>"
+		},
+		{
+			"id": "[Divine] Lay On Hands",
+			"name": "[Le Divin] Imposition des Mains",
+			"description": "<p>Vous soignez les blessures et les maladies d’un simple contact.</p><p>Quand vous imposez vos mains sur une personne blessée, lancez <strong>2🎲+Cool</strong>.</p><p>Sur un 10+, soignez 2 dégâts ou une maladie, et la cible est stabilisée. </p><p>Sur un 7-9, vous soignez 2 dégâts ou une maladie comme sur un 10+, mais vous en faites les frais.</p><p>En cas d’échec, votre aura lui inflige 1 dégât supplémentaire.</p>"
+		},
+		{
+			"id": "[Divine] Smite",
+			"name": "[Le Divin] Châtiment",
+			"description": "<p>Votre corps et votre arme divine comptent toujours comme une faiblesse contre les monstres que vous combattez. </p><p>Vos attaques à mains nues prennent la forme suivante : 2 dégâts, personnel, allonge, sanglant.</p>"
+		},
+		{
+			"id": "[Divine] Soothe",
+			"name": "[Le Divin] Apaisement",
+			"description": "<p><strong>Quand vous parlez à quelqu’un d’une voix calme</strong> pendant quelques secondes, vous l’apaisez, refoulez sa panique, sa  colère ou toute autre émotion négative.</p><p>Cette manœuvre fonctionne même si la source de l’émotion est encore présente tant que votre voix est audible</p>"
+		},
+		{
+			"id": "[Divine] What I Need, When I Need It",
+			"name": "[Le Divin] Ce dont j'ai besoin, quand j'en ai besoin",
+			"description": "<p>Vous pouvez ranger un  petit objet qui vous appartient dans un espace magique auquel nul ne peut accéder.</p><p>Vous pouvez y récupérer ce que vous y avez mis à tout moment; l’objet apparaît alors dans votre main.</p>"
+		}
+	]
+}

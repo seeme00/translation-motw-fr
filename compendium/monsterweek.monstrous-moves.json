@@ -1,0 +1,68 @@
+{
+	"label": "Le Monstre: Manœuvres",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "[Monstrous] Claws of the Beast",
+			"name": "[Le Monstre] Griffes de la Bête",
+			"description": "<p>Toutes vos attaques naturelles gagnent +1 dégât.</p>"
+		},
+		{
+			"id": "[Monstrous] Dark Negotiator",
+			"name": "[Le Monstre] Sombre Négociateur",
+			"description": "<p>Vous pouvez utiliser la manœuvre <strong>manipuler quelqu’un</strong> sur les monstres et sur les gens, du moins s’ils sont en mesure de raisonner et de parler</p>"
+		},
+		{
+			"id": "[Monstrous] Flight",
+			"name": "[Le Monstre] Vol",
+			"description": "<p>Vous pouvez voler.</p>"
+		},
+		{
+			"id": "[Monstrous] Immortal",
+			"name": "[Le Monstre] Immortel",
+			"description": "<p>Vous ne vieillissez pas, ne tombez pas malade et subissez -1 dégât chaque fois que vous subissez des dégâts.</p>"
+		},
+		{
+			"id": "[Monstrous] Incorporeal",
+			"name": "[Le Monstre] Immatériel",
+			"description": "<p>Vous pouvez traverser tout ce qui est matériel (mais pas les gens).</p>"
+		},
+		{
+			"id": "[Monstrous] Mental Dominion",
+			"name": "[Le Monstre] Domination Mentale",
+			"description": "<p>Quand vous regardez un humain droit dans les yeux et exercez votre volonté sur lui, lancez <strong>2🎲+Charme</strong>.</p><p>Sur un 10+, réserve 3.</p><p>Sur un 7-9, réserve 1. Vous pouvez dépenser votre réserve pour lui donner un ordre.</p><p>Les gens normaux vous obéissent alors, quoi que vous leur demandiez. Les  chasseurs peuvent choisir de vous obéir ou non.</p><p>S’ils acceptent, ils cochent de l’expérience.</p>"
+		},
+		{
+			"id": "[Monstrous] Preternatural Speed",
+			"name": "[Le Monstre] Répidité Supernaturelle",
+			"description": "<p>Vous êtes beaucoup plus rapide que les gens normaux. <strong>Quand vous chassez, fuyez ou courez</strong> gagnez +1 constant</p>"
+		},
+		{
+			"id": "[Monstrous] Shapeshifter",
+			"name": "[Le Monstre] Métamorphe",
+			"description": "<p>Vous pouvez changer de forme (généralement en animal). À vous de décider si vous avez une forme alternative ou plusieurs, et de les détailler.</p><p>Vous gagnez +1 pour <strong>enquêter sur un mystère</strong> quand vous utilisez le sens le plus développé d’une forme alternative (l’odorat pour un loup, la vue pour un aigle, etc.).</p>"
+		},
+		{
+			"id": "[Monstrous] Something Borrowed",
+			"name": "[Le Monstre] Emprunt",
+			"description": "<p>Prenez une manœuvre du livret d’un chasseur qui n’est pas joué pour l’instant.</p>"
+		},
+		{
+			"id": "[Monstrous] Unholy Strength",
+			"name": "[Le Monstre] Force Surnaturelle",
+			"description": "<p>Lancez <strong>2🎲+Bizarre</strong> au lieu de <strong>2🎲+Coriace</strong> quand vous <strong>cassez la gueule à quelqu’un</strong>.</p>"
+		},
+		{
+			"id": "[Monstrous] Unnatural Appeal",
+			"name": "[Le Monstre] Charme Surnaturel",
+			"description": "<p>Lancez <strong>2🎲+Bizarre</strong> au lieu de <strong>2🎲+Charme</strong> quand vous manipulez quelqu’un.</p>"
+		},
+		{
+			"id": "[Monstrous] Unquenchable Vitality",
+			"name": "[Le Monstre] Régénétation",
+			"description": "<p>Quand vous subissez des dégâts, vous pouvez <strong>vous soigner</strong>. Lancez <strong>2🎲+Cool</strong>.</p><p>Sur un 10+, soignez 2 dégâts et stabilisez vos blessures.</p><p>Sur un 7-9, soignez 1 dégât et stabilisez vos blessures.</p><p>En cas d’échec, vos blessures s’aggravent.</p>"
+		}
+	]
+}

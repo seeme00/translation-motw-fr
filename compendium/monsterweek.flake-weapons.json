@@ -1,0 +1,71 @@
+{
+	"label": "Le Parano: Equipement",
+	"mapping": {
+		"tags": {
+			"path": "data.tags",
+			"converter": "tags"
+		}
+	},
+	"entries": [
+		{
+			"id": "[Hidden] Butterfly / folding knife",
+			"name": "[Cachée] Couteau Papillon/Pliable",
+			"description": ""
+		},
+		{
+			"id": "[Hidden] Garrote",
+			"name": "[Cachée] Garrot",
+			"description": ""
+		},
+		{
+			"id": "[Hidden] Holdout pistol",
+			"name": "[Cachée] Pistolet de Poche",
+			"description": ""
+		},
+		{
+			"id": "[Hidden] Throwing knives",
+			"name": "[Cachée] Couteaux de Lancer",
+			"description": ""
+		},
+		{
+			"id": "[Hidden] Watchman's flashlight",
+			"name": "[Cachée] Lampe torche de Vigile",
+			"description": ""
+		},
+		{
+			"id": "[Hidden] Weighted gloves / brass knuckles",
+			"name": "[Cachée] Gants de MMA/Coup de Poing Américain",
+			"description": ""
+		},
+		{
+			"id": "[Normal] .38 revolver",
+			"name": "[Normale] Revolver .38",
+			"description": ""
+		},
+		{
+			"id": "[Normal] 9mm",
+			"name": "[Normale] 9mm",
+			"description": ""
+		},
+		{
+			"id": "[Normal] Big knife",
+			"name": "[Normale] Poignard",
+			"description": ""
+		},
+		{
+			"id": "[Normal] Hunting rifle",
+			"name": "[Normale] Fusil de Chasse",
+			"description": ""
+		},
+		{
+			"id": "[Normal] Magnum",
+			"name": "[Normale] Magnum",
+			"description": ""
+		},
+		{
+			"id": "[Normal] Shotgun",
+			"name": "[Normale] Fusil à Pompe",
+			"description": ""
+		}
+	]
+}

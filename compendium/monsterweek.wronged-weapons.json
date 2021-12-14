@@ -1,0 +1,69 @@
+{
+	"label": "Le Vengeur: Equipement",
+	"mapping": {
+		"tags": {
+			"path": "data.tags",
+			"converter": "tags"
+		},
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "[Practical] .38 revolver",
+			"name": "[Utile] Revolver .38"
+		},
+		{
+			"id": "[Practical] 9mm",
+			"name": "[Utile] 9mm"
+		},
+		{
+			"id": "[Practical] Assault rifle",
+			"name": "[Utile] Fusil d'Assaut"
+		},
+		{
+			"id": "[Practical] Big knife",
+			"name": "[Utile] Couteau de Chasse"
+		},
+		{
+			"id": "[Practical] Brass knuckles",
+			"name": "[Utile] Coup de Poing Américain"
+		},
+		{
+			"id": "[Practical] Hunting rifle",
+			"name": "[Utile] Fusil de Chasse"
+		},
+		{
+			"id": "[Practical] Shotgun",
+			"name": "[Utile] Fusil à Pompe"
+		},
+		{
+			"id": "[Signature] Chainsaw",
+			"name": "[Prédilection] Tronçonneuse"
+		},
+		{
+			"id": "[Signature] Enchanted dagger",
+			"name": "[Prédilection] Dague Enchantée"
+		},
+		{
+			"id": "[Signature] Fighting knife",
+			"name": "[Prédilection] Couteau de Combat"
+		},
+		{
+			"id": "[Signature] Hand cannon",
+			"name": "[Prédilection] Escopette"
+		},
+		{
+			"id": "[Signature] Huge sword or huge axe",
+			"name": "[Prédilection] Grande Epée ou Grande Hache"
+		},
+		{
+			"id": "[Signature] Sawn-off shotgun",
+			"name": "[Prédilection] Fusil à Canon Scié"
+		},
+		{
+			"id": "[Signature] Specialist weapon (see desc.)",
+			"name": "[Prédilection] Arme de Spécialiste (voir description)",
+			"description": "<p>Choisissez parmis la liste ou demandez au Gardien pour créer votre propre arme.<ul><li>Maillet et Pieux en bois pour Vampire.</li><li>Dague en Argent pour les Loups Garoux</li><li>...</li></ul></p><p>L'arme a 4 dégâts contre les créatures ciblées, 1 dégâts autrement, et d'autres traits avec l'accord du Gardien.</p>"
+		}
+	]
+}

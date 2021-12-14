@@ -1,0 +1,43 @@
+{
+	"label": "L'Elu: Manœuvres",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "[Chosen] Destiny's Plaything",
+			"name": "[L'Elu] Jouet du Destin",
+			"description": "<p>Au début de chaque mystère, lancez <strong>2🎲+Bizarre</strong> pour <strong>voir ce qui est révélé concernant votre avenir immédiat</strong>.</p><p>Sur un 10+, le Gardien vous dévoile un détail utile sur le prochain mystère. Sur un 7-9, vous n'obtenez qu'un vague indice. En cas d'échec, vous allez avoir de sérieux ennuis.</p>"
+		},
+		{
+			"id": "[Chosen] Devastating",
+			"name": "[L'Elu] Devastateur",
+			"description": "<p>Quand <strong>vous infligez des dégâts</strong>, vous pouvez infliger +1 dégât.</p>"
+		},
+		{
+			"id": "[Chosen] Dutiful",
+			"name": "[L'Elu] Consciencieux",
+			"description": "<p>Quand votre destinée montre sa vilaine tête et que <strong>vous agissez conformément à un de vos traits de destinée</strong> (fût-il d'héroïsme ou de ruine), cochez de l'expérience. S'il s'agit d'un trait d'héroïsme, gagnez +1 temporaire.</p>"
+		},
+		{
+			"id": "[Chosen] I'm Here for a Reason",
+			"name": "[L'Elu] Je suis ici pour une bonne raison",
+			"description": "<p>Vous êtes destiné à quelque chose de bien précis. Fignolez les détails aves le Gardien en fonction de votre destinée. </p><p>Vous ne pouvez pas mourir avant que l'événement en quetion ne se déroule. <strong>Si vous mourez au cours du jeu</strong>, vous devez dépenser un point de Chance. </p><p>D'une manière ou d'une autre, vous vous remettrez ou serez tout simplement rappelé à la vie. Une fois votre mission réussie (ou votre captial Chance épuisé), les paris sont ouverts.</p>"
+		},
+		{
+			"id": "[Chosen] Invincible",
+			"name": "[L'Elu] Invincible",
+			"description": "<p>Considérez que vous avez toujours armure 2 (non cumulable avec d'autres protections).</p>"
+		},
+		{
+			"id": "[Chosen] Resilience",
+			"name": "[L'Elu] Robustesse",
+			"description": "<p>Vous guérissez plus vite que les gens normaux. Chaque fois que vous effacez des dégâts parce que vous recevez des soins, effacez 1 dégât supplémentaire. </p><p>En outre, vos blessures comptent comme 1 dégât de moins au regard des manœuvres de dégâts du Gardien.</p>"
+		},
+		{
+			"id": "[Chosen] The Big Entrance",
+			"name": "[L'Elu] Entrée en Fanfare",
+			"description": "<p>Quand <strong>vous faites une entrée flamboyante dans une situation dangereuse</strong>, lancez 2🎲+Cool.</p><p>Sur un 10+, chacun s'immobilise pour vous regarder ou vous écouter jusqu'à ce que vous ayez terminé votre discours 'inaugural'. Sur un 7-9, choisissez une personne ou un monstre, qui se fige, vous regarde et écoute jusqu'à ce que vous ayez fini de parler. En cas d'échec, tous les ennemis présents vous considèrent comme la pire menace qui pèse sur eux.</p>"
+		}
+	]
+}

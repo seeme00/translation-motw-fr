@@ -1,0 +1,48 @@
+{
+	"label": "Vaurien: Manœuvres",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "[Crooked] Artifact",
+			"name": "[Vaurien] Artefact",
+			"description": "<p>Vous avez 'découvert' un artefact magique aux pouvoirs bien pratiques.</p><p>Au choix : amulette de protection (armure  1, magique, rechargement), porte-bonheur (peut être utilisé comme un point de Chance, mais une seule fois), grimoire (l’étude de l’ouvrage confère +1 temporaire pour <strong>utiliser la magie</strong>), passe-partout (ouvre toute serrure verrouillée magiquement), pierre du diablotin (un démon mineur sert le détenteur de l’objet.</p><p>Il doit être invoqué avec la manœuvre <strong>utiliser la magie</strong>).</p>"
+		},
+		{
+			"id": "[Crooked] Crew",
+			"name": "[Vaurien] Equipe",
+			"description": "<p>Vous disposez d’une équipe (cf. page 122) de trois ou quatre personnes qui peut vous aider en toutes circonstances.</p>"
+		},
+		{
+			"id": "[Crooked] Deal with the Devil",
+			"name": "[Vaurien] Pacte avec le Diable",
+			"description": "<p>Vous avez vendu votre âme au diable.</p><p>Choisissez une ou deux choses que vous avez reçues en échange : richesse, célébrité, jeunesse, sexe, perfectionnement (ajoutez +1 à deux caractéristiques).</p><p>Le paiement s’effectuera à votre mort, dans six mois (si vous avez choisi deux choses) ou dans un an.</p>"
+		},
+		{
+			"id": "[Crooked] Driver",
+			"name": "[Vaurien] Chauffeur",
+			"description": "<p>Vous gagnez +1 constant quand vous conduisez et pouvez faire démarrer n’importe quoi (plus c’est vieux, moins vous aurez besoin d’outils pour cela).</p><p>Vous possédez aussi deux véhicules accessibles et courants (une voiture de sport et une fourgonnette, par exemple).</p>"
+		},
+		{
+			"id": "[Crooked] Friends on the Force",
+			"name": "[Vaurien] Amis Flics",
+			"description": "<p>Vous connaissez quelques flics susceptibles de fermer les yeux ou de vous rendre service en échange d’une rétribution.</p><p>Vous pouvez <strong>agir sous pression</strong> pour entrer en contact avec eux quand vous avez besoin de détourner l’attention des forces de  l’ordre.</p><p>Leur intervention a un prix, même s’ils ne vous demandent pas tout de suite de leur renvoyer l’ascenseur</p>"
+		},
+		{
+			"id": "[Crooked] Home Ground",
+			"name": "[Vaurien] Terrain Connu",
+			"description": "<p>Votre équipe prend soin des habitants du coin, assure leur sécurité, veille à ce qu’il ne leur arrive rien.</p><p>Quand vous revenez dans votre ancien quartier, vous trouvez toujours des gens prêts à vous cacher ou vous rendre de menus services sans poser de questions.</p>"
+		},
+		{
+			"id": "[Crooked] Made",
+			"name": "[Vaurien] Intronisé",
+			"description": "<p>Vous faites partie d’un gang.</p><p>Nommez-le et décrivez en quoi ses agissements sont liés à votre background. Vous pouvez faire appel aux membres du gang, mais il faudra les payer.</p><p>Vos chefs vous demanderont également de leur rendre des services, contre lesquels ils vous payeront eux aussi.</p><p>Le gang est prêt à fermer les yeux sur certaines choses, mais mieux vaut ne pas essayer de l’entuber.</p>"
+			},
+		{
+			"id": "[Crooked] Notorious",
+			"name": "[Vaurien] Sale Réputation",
+			"description": "<p>Votre passé criminel vous vaut une mauvaise réputation.</p><p>Quand vous révélez qui vous êtes, votre réputation terrifiante compte comme une raison pour que les gens fassent ce que vous leur demandez dans le cadre de la manœuvre <strong>manipuler quelqu’un</strong>.</p><p>Bien évidemment, le fait de révéler votre identité peut vous attirer des problèmes ultérieurement.</p>"
+		}
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"label": "Vaurien: Equipement",
+	"mapping": {
+		"tags": {
+			"path": "data.tags",
+			"converter": "tags"
+		}
+	},
+	"mapping": {
+		"tags": {
+			"path": "data.tags",
+			"converter": "tags"
+		}
+	},
+	
+	"entries": [
+		{
+			"id": ".22 Revolver",
+			"name": "Revolver .22",
+			"description": ""
+		},
+		{
+			"id": ".38 Revolver",
+			"name": "Revolver .38",
+			"description": ""
+		},
+		{
+			"id": "9mm",
+			"name": "9mm",
+			"description": ""
+		},
+		{
+			"id": "Assault rifle",
+			"name": "Fusil d'Assaut",
+			"description": ""
+		},
+		{
+			"id": "Baseball bat",
+			"name": "Batte de Baseball",
+			"description": ""
+		},
+		{
+			"id": "Big knife",
+			"name": "Couteau de Chasse",
+			"description": ""
+		},
+		{
+			"id": "Hunting rifle",
+			"name": "Fusil de Chasse",
+			"description": ""
+		},
+		{
+			"id": "Shotgun",
+			"name": "Fusil à Pompe",
+			"description": ""
+		},
+		{
+			"id": "Submachine gun",
+			"name": "Pistolet-Mitrailleur",
+			"description": ""
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"label": "L'Ordinaire: Manœuvres",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "[Mundane] Always the Victim",
+			"name": "[L'Ordinaire] Victime Permanente",
+			"description": "<p>Quand un autre chasseur utilise <strong>protéger quelqu'un</strong> pour vous protéger, il coche de l'expérience. </p><p>Chaque fois qu'un monstre vous capture, vous cochez de l'expérience.</p>"
+		},
+		{
+			"id": "[Mundane] Don't Worry, I'll Check It Out",
+			"name": "[L'Ordinaire] T'inquiète, Je vais Jeter un Oeil",
+			"description": "<p>Quand vous <strong>partez de votre propre chef</strong> pour vérifier un endroit (ou quelque chose) d'effrayant, cochez de l'expérience.</p>"
+		},
+		{
+			"id": "[Mundane] Let's Get Out Of Here!",
+			"name": "[L'Ordinaire] Fichons le Camp d'ici!",
+			"description": "<p>Si vous pouvez <strong>protéger quelqu'un</strong> en lui disant quoi faire, ou en l'aidant à filer, lancez <strong>2🎲+Charme</strong> au lieu de <strong>2🎲+Coriace</strong></p>"
+		},
+		{
+			"id": "[Mundane] Oops!",
+			"name": "[L'Ordinaire] Oups!",
+			"description": "<p>Si <strong>vous voulez tomber sur quelque chose d'important</strong>, dites-le au Gardien.</p><p>Vous trouverez quelque chose d'important et d'utile, mais pas nécessairement lié à vos problèmes actuels.</p>"
+		},
+		{
+			"id": "[Mundane] Panic Button",
+			"name": "[L'Ordinaire] Panique",
+			"description": "<p>Quand vous devez vous échapper, <strong>précisez le chemun que vous voulez emprunter</strong> et lancez <strong>2🎲+Futé</strong>.</p><p>Sur un 10+, vous êtes hors de danger.</p><p>Sur un 7-9, vous pouvez filer au rester, mais si vous voulez partir, il vous en coûtera (vous laissez quelque chose derrière, ou quelque chose vous accompagne).</p><p>En cas d'échec, vous êtes pris à mi-chemin</p>"
+		},
+		{
+			"id": "[Mundane] The Power of Heart",
+			"name": "[L'Ordinaire] Tiens bon!",
+			"description": "<p>Quand vous combattez un monstre, si<strong>vous donnez un coup de main à quelqu'un</strong>, ne lancez pas <strong>2🎲+Cool</strong>. Considérez que vous avez obtenu un 10.</p>"
+		},
+		{
+			"id": "[Mundane] Trust Me",
+			"name": "[L'Ordinaire] Fais-Moi Confiance",
+			"description": "<p>Quand <strong>vous dites la vérité à un individu normal pour le protéger du danger</strong>, lancez <strong>2🎲+Charme</strong>.</p><p>Sur un 10+, il fait ce que vous lui dites sans poser de questions.</p><p>Sur un 7-9, l'individu obtempère mais le Gardien choisit:<ul><li>L'individu commence par vous poser une question difficile.</li><li>L'individu joue la montre et hésite un moment</li><li>L'individu a une 'meilleure' idée</li></ul></p><p>En cas d'échec, il pense que vous êtes fou, voire dangereux.</p>"
+		},
+		{
+			"id": "[Mundane] What Could Go Wrong?",
+			"name": "[L'Ordinaire] Qu'est ce qui Pourrait Aller de Travers",
+			"description": "<p>Quand vous <strong>foncez tête baissée</strong> sans protéger vos arrières, réserve 2.</p><p>Vous pouvez dépenser votre réserve pour:<ul><li>Infliger +1 dégât</li><li>Diminuer de 1 les dégâts subis par quelqu'un.</li><liGagner +2 temporaire quand vous <strong>agissez sous pression</strong>.</li></ul></p>"
+		}
+	]
+}

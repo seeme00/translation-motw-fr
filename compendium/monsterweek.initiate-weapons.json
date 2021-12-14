@@ -1,0 +1,81 @@
+{
+	"label": "L'Initié: Equipement",
+	"mapping": {
+		"tags": {
+			"path": "data.tags",
+			"converter": "tags"
+		}
+	},
+	"entries": [
+		{
+			"id": "[Modern] .38 revolver",
+			"name": "[Moderne] Revolver .38",
+			"description": ""
+		},
+		{
+			"id": "[Modern] 9mm",
+			"name": "[Moderne] 9mm",
+			"description": ""
+		},
+		{
+			"id": "[Modern] Magnum",
+			"name": "[Moderne] Magnum",
+			"description": ""
+		},
+		{
+			"id": "[Modern] Shotgun",
+			"name": "[Moderne] Fusil à Pompe",
+			"description": ""
+		},
+		{
+			"id": "[Modern] Sniper rifle",
+			"name": "[Moderne] Fusil de Sniper",
+			"description": ""
+		},
+		{
+			"id": "[Old-Fashioned] Axe",
+			"name": "[Archaïque] Hache",
+			"description": ""
+		},
+		{
+			"id": "[Old-Fashioned] Big axe",
+			"name": "[Archaïque] Grande Hache",
+			"description": ""
+		},
+		{
+			"id": "[Old-Fashioned] Big sword",
+			"name": "[Archaïque] Grande Epée",
+			"description": ""
+		},
+		{
+			"id": "[Old-Fashioned] Crossbow",
+			"name": "[Archaïque] Arbalète",
+			"description": ""
+		},
+		{
+			"id": "[Old-Fashioned] Fighting sticks",
+			"name": "[Archaïque] Bâtons de Combat",
+			"description": ""
+		},
+		{
+			"id": "[Old-Fashioned] Mace",
+			"name": "[Archaïque] Masse",
+			"description": ""
+		},
+		{
+			"id": "[Old-Fashioned] Silver knife",
+			"name": "[Archaïque] Couteau en Argent",
+			"description": ""
+		},
+		{
+			"id": "[Old-Fashioned] Spear",
+			"name": "[Archaïque] Lance",
+			"description": ""
+		},
+		{
+			"id": "[Old-Fashioned] Sword",
+			"name": "[Archaïque] Epée",
+			"description": ""
+		}
+	]
+}

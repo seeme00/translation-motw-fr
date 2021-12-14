@@ -1,0 +1,43 @@
+{
+	"label": "L'Expert: Manœuvres",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "[Expert] Dark Past",
+			"name": "[L'Expert] Sombre Passé",
+			"description": "<p>Vous vous êtes essayé aux pires arts mystiques avant de rejoindre le camp des gentils. Si <strong>vous parcourez vos souvenirs</strong> en quête d'informations en rapport avec l'affaire en cours, lancez <strong>2🎲+Bizarre</strong>.</p><p>Sur un 10+, posez au Gardien deux questions au choix dans la liste ci-dessous.</p><p>Sur un 7-9, n'en posez qu'une.</p><p>En cas d'échec, vous pouvez quand même poser une question, mais vous êtes en partie responsable de la situation.</p><p>Les questions sont:<ul><li>Quand j'ai eu affaire à cette création (ou à l'un de ses congénères), qu'ai-je appris?</li><li>Connais-je une forme de magie noire qui pourrait m'être utile ?</li><li>Connais-je quelqu'un qui pourrait être derrière tout ceci?</li><li>Connais-je quelqu'un qui pourrait nous aider en ce moment même?</li></li></p>"
+		},
+		{
+			"id": "[Expert] I've Read About This Sort Of Thing",
+			"name": "[L'Expert] J'ai lu des Choses à ce Sujet",
+			"description": "<p>Lancez <strong>2🎲+Futé</strong> au lieu de <strong>2🎲+Cool</strong> quand vous <strong>agissez sous pression</strong>.</p>"
+		},
+		{
+			"id": "[Expert] It Wasn't As Bad As It Looked",
+			"name": "[L'Expert] Ce n'est pas Aussi Grave qu'il n'y Paraît",
+			"description": "<p>Une fois par mystère, vous pouvez tenter de <strong>rester dans la course malgré vos blessures</strong>. Lancez <strong>2🎲+Cool</strong>.</p><p>Sur 10+, éliminez 2 dégâts et stabilisez vos blessures.</p><p>Sur un 7-9, éliminez 1 dégât ou stabilisez vos blessures.</p><p>En cas d'échec, c'est pire qu'il n'y paraissait. Le Gardien peut vous infliger une manœuvre de dégâts ou rendre vos blessures instables.</p>"
+		},
+		{
+			"id": "[Expert] Often Right",
+			"name": "[L'Expert] A Souvent Raison",
+			"description": "<p>Quand <strong>un chasseur vient chercher conseil auprès de vous</strong> au sujet d'un problème, répondes-lui sincèrement. S'il écoute vos conseils, il gagne +1 constant tant qu'il les suit, et vous cochez de l'expérience.</p>"
+		},
+		{
+			"id": "[Expert] Precise Strike",
+			"name": "[L'Expert] Coup Précis",
+			"description": "<p>Quand vous infligez des dégâts à un monstre, vous pouvez <strong>viser un point faible</strong>. Lancez <strong>2🎲+Coriace</strong>.</p><p>Sur un 10+, vous infligez +2 dégâts.</p><p>Sur un 7-9, vous infligez +1 dégât.</p><p>En cas d'échec, vous offre au monstre l'occasion de vous toucher.</p>"
+		},
+		{
+			"id": "[Expert] Preparedness",
+			"name": "[L'Expert] Etat de Préparation",
+			"description": "<p>Quand <strong>vous avez besoin de quelque chose d'inhabituel ou rare</strong>, lancez <strong>2🎲+Futé</strong>.</p><p>Sur un +10, vous l'obtenez sur le champ.</p><p>Sur un 7-9, vous savez où le trouver, mais cela va vous demander un peu de temps.</p><p>En cas d'échec, vous savez où le trouver, mais l'endroit craint vraiment.</p>"
+		},
+		{
+			"id": "[Expert] The Person with the Plan",
+			"name": "[L'Expert] J'avais un Plan",
+			"description": "<p><strong>Au début de chaque mystère</strong>, lancez <strong>2🎲+Futé</strong>.</p><p>Sur un 10+, réserve 2.</p><p>Sur un 7-9, réserve 1.</p><p>En cas d'échec, le Gardien optient réserve 1 qu'il peut dépenser pour que vous vous retrouviez au pire endroit, totalement pris au dépourvu.</p><p>Dépensez la réserve pour être là où vous le devez, parfaitement préparé.</p>"
+		}
+	]
+}

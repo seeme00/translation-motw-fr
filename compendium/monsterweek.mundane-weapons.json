@@ -1,0 +1,41 @@
+{
+	"label": "L'Ordinaire: Equipement",
+	"mapping": {
+		"tags": {
+			"path": "data.tags",
+			"converter": "tags"
+		}
+	},
+	"entries": [
+		{
+			"id": "Golf club, baseball bat, cricket bat, or hockey stick",
+			"name": "Club de Gold, Batte de Baseball, Batte de Cricket ou Crosse de Hockey",
+			"description": ""
+		},
+		{
+			"id": "Hunting rifle",
+			"name": "Fusil de Chasse",
+			"description": ""
+		},
+		{
+			"id": "Nunchuks",
+			"name": "Nunchaku",
+			"description": ""
+		},
+		{
+			"id": "Pocket knife or multitool",
+			"name": "Couteau de Poche ou Couteau Suisse",
+			"description": ""
+		},
+		{
+			"id": "Sledgehammer or fire axe",
+			"name": "Masse ou Hache de Pompier",
+			"description": ""
+		},
+		{
+			"id": "Small handgun",
+			"name": "Arme de Poing de Petit Calibre",
+			"description": ""
+		}
+	]
+}

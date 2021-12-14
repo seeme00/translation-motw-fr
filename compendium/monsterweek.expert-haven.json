@@ -1,0 +1,53 @@
+{
+	"label": "L'Expert: Refuges",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "Haven: Armory",
+			"name": "Refuge: Arsenal",
+			"description": "<p>Vous disposez d'un ensemble d'armes et d'objets rares particulièrement dangereux pour les monstre. Si vous avez <strong>besoin d'une arme spéciale</strong>, lancez <strong>2🎲+Bizarre</strong>. </p><p>Sur un 10+, vous l'avez (en nombre nécessaire). Sur un 7-9, vous l'avez mais en petit nombre. En cas d'échec, vous n'avez pas la bonne arme.</p>"
+		},
+		{
+			"id": "Haven: Infirmary",
+			"name": "Refuge: Infirmerie",
+			"description": "<p>Vous pouvez soigner les gens et disposez d'assez d'espace pour permettre à une ou deux personnes de se remettre. </p><p>Le Gardien vous indiquera le temps nécessaire au patient et vous précisera si vous avez besoin d'aide ou de matériel en plus.</p>"
+		},
+		{
+			"id": "Haven: Lore Library",
+			"name": "Refuge: Bibliothèque de Connaissances",
+			"description": "<p>Quand vous compulsez vos ouvrages, gagnez +1 temporairement pour <strong>enquêter sur un mystère</strong> (si les ouvrages de référence sont pertinents).</p>"
+		},
+		{
+			"id": "Haven: Magical Laboratory",
+			"name": "Refuge: Laboratoire Magique",
+			"description": "<p>Vous possedez un laboratoire mystique avec toutes sortes d'ingrédients et outils exotiques pour lancer des sorts (comme la manœuvre <strong>utiliser la magie</strong>, ma <strong>magie souveraine</strong> et toute autre manœuvre magique).</p>"
+		},
+		{
+			"id": "Haven: Mystical Library",
+			"name": "Refuge: Bibliothèque Mystique",
+			"description" : "<p>Quand vous compulsez vos grimoires et ouvrages occultes, gagnez +1 temporaire pour <strong>utiliser la magie</strong>.</p>"
+		},
+		{
+			"id": "Haven: Oubliette",
+			"name": "Refuge: Oubliette",
+			"description": "<p>Cette pièce est isolée de tout type de monstre, esprit et magie de votre connaissance. Rien de ce que vous y stockez ne peut être trouvé, produire de la magie ou en sortir.</p>"
+		},
+		{
+			"id": "Haven: Panic Room",
+			"name": "Refuge: Panic Room",
+			"description": "<p>Elle renferme des provisions et dispose de protections normales et mystiques. Vous pouvez y rester caché pendant des jours à l'abrit de presque tout.</p>"
+		},
+		{
+			"id": "Haven: Protection Spells",
+			"name": "Refuge: Sorts de Protection",
+			"description": "<p>Votre refuge est à l'abri des monstres. Ils ne peuvent tout simplement pas y entrer. Ils peuvent entreprendre des actions spéciales pour passer outre les sceaux, mais ce ne sera pas facile.</p>"
+		},
+		{
+			"id": "Haven: Workshop",
+			"name": "Refuge: Atelier",
+			"description": "<p>Vous avez l'espace nécessaire pour produire et réparer des armes, véhicules et autres gadgets.</p><p> A vous de déterminer avec le Gardien combien de temps prendra une production ou une réparation et si vous aurez besoin d'aide ou de matériel en plus.</p>"
+		}
+	]
+}

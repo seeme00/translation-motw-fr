@@ -1,0 +1,54 @@
+{
+	"label": "Manœuvres de base",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "Act Under Pressure",
+			"name": "Agir sous pression",
+			"description": "<p>Quand vous <strong>agissez sous pression</strong>, <strong>lancez 2🎲+Cool</strong></p><p><ul><li><strong>Sur un 10+</strong>, vous remplissez l'objectif que vous vous étiez fixé.</li><li><strong>Sur un 7-9</strong>, le Gardien choisit: l'issue n'est pas si rose, vous avez un choix difficile à faire, ou un prix à payer.</li><li><strong>En cas d'échec</strong>, la situation dérape.</li></ul></p>"
+			
+		},
+		{
+			"id": "Big Magic",
+			"name": "Magie Souveraine",
+			"description": "<p>Les règles de la magie sont limitées, mais celles de la <strong>magie souveraine</strong> ne le sont pas. Elle concerne tout le reste, qu'il s'agisse de soigner quelqu'un du vampirisme ou d'ouvrir un portail vers une autre dimension. Les seules limites de la <strong>magie souveraine</strong> sont celles que vous fixez dans le cadre de votre jeux.</p>"
+		},
+		{
+			"id": "Help Out",
+			"name": "Donner un Coup de Main",
+			"description": "<p>Vous pouvez <strong> aider un chasseur</strong> qui entreprend une manœuvre en lançant <strong>2🎲+Cool</strong>.</p><p><ul><li><strong>Sur un 10+</strong>, votre aide confère +1 à son jet</li><li><strong>Sur un 7-9</strong>, votre aide confère +1 à son jet, mais vous vous retrouvez vous-même exposé.</li><li><strong>En cas d'échec</strong>, vous vous retrouvez exposé sans rien apporter à l'autre chasseur.</li></ul></p>"
+		},
+		{
+			"id": "Investigate a Mystery",
+			"name": "Enquêter sur un Mystère",
+			"description": "<p>Quand vous <strong>enquetez sur un mystère</strong>, lancez <strong>2🎲+Futé</strong>.</p><p><ul><li><strong>Sur un 10+</strong>, réserve 2</li><li><strong>Sur un 7-9</strong>, réserve 1.</li><li><strong>En cas d'échec</strong>, Vous révélez des informations au monstre ou à l'individu auquel vous vous adressez.</li></ul></p><p>Un point de réserve vous permet de poser une des questions suivantes:<ul><li>Que s'est il passé ici?</li><li>De quel genre de créature s'agit-il?</li><li>Que sait-elle faire?</li><li>A quoi est-elle vulnérable?</li><li>Où est-elle partie?</li><li>Que voulait-elle faire?</li><li>Y a-t-il quelque chose de caché par ici?</li></ul></p>"
+		},
+		{
+			"id": "Kick Some Ass",
+			"name": "Casser la Gueule",
+			"description": "<p>Quand vous êtes mêlé à un combat et <strong>cassez la gueule</strong>, lancez <strong>2🎲+Coriace</strong>.</p><p><strong>En cas de réussite (7+)</strong>, vous et ce que vous combattez infligez des dégâts en fonction du danger. En règle générale, vous infligez les dégâts de votre arme et votre adversaire vous inflige les dégâts de son attaque.</p><p><strong>Si vous obtenez 10+</strong>, choisissez un effet supplémentaire:<ul><li>Gagnez +1 temporaire ou donnez +1 temporaire à un autre chasseur.</li><li>Vous infligez des dégâts considérables (+1 dégât).</li><li>Vous subissez moins de dégâts (-1 dégât)</li><li>Vous le poussez où vous le voulez.</li></ul></p><p><strong>En cas d'échec</strong>, vous prenez une raclée. Vous subissez des dégâts ou êtes capturé, mais vous n'infligez pas de dégâts</p>"
+		},
+		{
+			"id": "Manipulate Someone",
+			"name": "Manipuler Quelqu'un",
+			"description": "<p>Quand vous voulez obliger quelqu'un à faire quelque chose, après leur avoir donné une bonne raison, <strong>dites-leur ce que vous attendez d'eux</strong>, lancez <strong>2🎲+Charme</strong>.</p><p>Pour un individu normal:<ul><li><strong>Sur un 10+</strong>, il le fera pour la raison que vous lui avez donnée. Si vous en demandez trop, il vous dira ce qu'il doit entreprendre pour y parvenir (ou qu'il en est incapable)</li><li><strong>Sur un 7-9</strong>, il obtempère, mais seulement si vous faites quelque chose sur-le-champ en échange pour montrer que vous êtes sincère. Si vous en demandez trop, il vous dira ce qu'il doit entreprendre pour y parvenir (si possible)</li><li><strong>En cas d'échec</strong>, votre approche est complètement ratée. La cible es toffensée ou en colère</li></ul></p>"
+		},
+		{
+			"id": "Protect Someone",
+			"name": "Protéger Quelqu'un",
+			"description": "<p>Quand vous <strong>empêchez un autre personnage de subir des dégâts</strong>, lancez <strong>2🎲+Coriace</strong>.</p><p><strong>En cas de réussite (7+)</strong>, vous protégez l'individu en question, mais subissez tout ou partie des dégâts à sa place.</p><p><strong>Sur un 10+</strong>, choisissez un effet supplémentaire:<ul><li>Vous subissez moins de dégâts (-1 dégât).</li><li>C'est maintenant vous qui êtes en danger.</li><li>Vous infligez des dégâts à l'ennemi.</li><li>Vous contenez l'ennemi.</li></ul></p><p><strong>En cas d'échec</strong>, la situation s'aggrave.</p>"
+		},
+		{
+			"id": "Read a Bad Situation",
+			"name": "Evaluer une Situation qui Craint",
+			"description": "<p>Quand vous observez les environs et <strong>évaluez une situation qui craint</strong>, lancez <strong>2🎲+Futé</strong>.</p><p>Sure un 10+, réserve 3, sur un 7-9, réserve 1.</p><p>Un point de réserve peut être dépensé pour poser une des questions suivantes au gardien:<ul><li>Quelle est la meilleure façon d'entrer pour moi?</li><li>Quelle est la meilleure façon de sortir pour moi?</li><li>Y a-t-il des dangers que nous n'avons pas remarqués?</li><li>Quelle est la plus grande menace?</li><li>Quest-ce qui est le plus vulnérable pour moi?</li><li>Quelle est la meilleure façon de protéger les victimes?</li></ul></p><p>Si vous agissez conformément aux réponses obtenues, gagnez +1 constant tant que l'information est pertinente.</p><p><strong>En cas d'échec</strong>, vous méjugez la situation ou dévoilez des détails tactiques à vos ennemis.</p>"
+		},
+		{
+			"id": "Use Magic",
+			"name": "Utiliser la Magie",
+			"description": "<p>Quand vous <strong>utilisez la magie</strong>, détaillez ce que vous voulez faire et comment vous comptez y parvenie, puis lancez <strong>2🎲+Bizarre</strong>.<ul><li><strong>Sur un 10+</strong>, la magie fonctionne comme prévu. Choisissez l'effet.</li><li><strong>Sur un 7-9</strong>, elle ne fonctionne pas complètement comme prévu. Choisissez l'effet et un pépin. Au Gardien de déterminer la nature du pépin.</li><li><strong>En cas d'échec</strong>, vous perdez le contrôle de la magie et ça finit mal.</li></ul></p><p>Par défaut, la magie a un des effets suivants, dure une trentaine de minutes, ne vous met pas en danger, n'attire pas l'attention sur vous ou ne vous expose à aucun effet secondaire. En cas de pépins, c'est différent...</p><p>Effets<ul><li>Infliger des dégâts (1 dégât, ignore l'armure, magique, évident).</li><li>Enchanter une arme (+1 dégât, magique)</li><li>Faire une chose qui dépasse les limites humaines</li><li>Barrer une porte ou un lieu pour un individu ou un type de créatures précis.</li><li>Piéger un individu, sbire ou monstre précis.</li><li>Bannir un esprit ou lever une malédiction affectant un individu, un objet ou un lieu.</li><li>Invoquer un monstre.</li><li>Communiquer avec quelqu'un ou quelque chose dont vous ne connaissez pas la langue.</li><li>Observer un autre lieu ou temps.</li><li>Eliminer 1 dégât, soigner une maladie ou neutraliser un poison.</li></ul></p><p>Pépins:<ul><li>L'effet est amoindri.</li><li>L'effet est raccourci.</li><li>Vous subissez 1 dégât (ignore l'armure, magique).</li><li>La magie attire l'attention.</li><li>Elle produit un effet secondaire fâcheux.</li></ul></p><p>Le Gardien peut exiger de vous un ou plusieurs des points suivants: <ul><li>Le sort nécessite des composants exotiques.</li><li>Le temps d'incantation du sort est de 10 secondes, 30 secondes ou 1 minute.</li><li>L'incantation s'accompagne de chants et de gestes rituels.</li><li>L'incantation s'accompagne de symboles ésotériques qu'il vous faut tracer.</li><li>Vous avez besoin d'une personne ou deux pour vous aider à lancer le sort.</li><li>Vous devez vous tourner vers un grimoire pour y trouver certains détails.</li></ul></p>"
+		}
+	]
+}

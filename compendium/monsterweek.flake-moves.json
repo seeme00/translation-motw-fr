@@ -1,0 +1,48 @@
+{
+	"label": "Le Parano: Manœuvres",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "[Flake] Connect the Dots",
+			"name": "[Le Parano] Etablir des liens",
+			"description": "<p>Établir des liens : au <strong>début de chaque mystère</strong>, si vous <strong>cherchez le tableau d’ensemble</strong>dans lequel s’inscrivent les événements en cours, lancez <strong>2🎲+Futé</strong>.</p><p>Sur un 10+, réserve 3.</p><p>Sur un 7-9, réserve 1.</p><p>Dépensez votre réserve durant le mystère pour poser au Gardien une des questions suivantes :<ul><li>Cette personne est-elle plus liée aux événements en cours qu’elle ne le prétend?</li><li>Quand et où se déroulera le prochain événement critique ?</li><li>Que veut le monstre à cette personne ?</li><li>Est-ce lié à des mystères sur lesquels nous avons déjà enquêté ?</li><li>En quoi ce mystère est-il lié au tableau d’ensemble ?</li></ul></p>"
+		},
+		{
+			"id": "[Flake] Contrary",
+			"name": "[Le Parano] Contraire",
+			"description": "<p>Quand vous <strong>cherchez et obtenez les conseils honnêtes de  quelqu’un</strong> sur la meilleure marche à suivre et que vous faites autre chose, cochez de l’expérience.</p><p>Si vous faites totalement le contraire, vous gagnez aussi +1 constant sur les manœuvres que vous effectuez dans ce sens.</p>"
+		},
+		{
+			"id": "[Flake] Crazy Eyes",
+			"name": "[Le Parano] Regard Fou",
+			"description": "<p>Vous gagnez +1 Bizarre (+3 max.)..</p>"
+		},
+		{
+			"id": "[Flake] Net Friends",
+			"name": "[Le Parano] Amis du Net",
+			"description": "<p>Vous connaissez beaucoup de gens sur Internet. Quand vous contactez un ami du Net pour qu’il vous aide dans le cadre d’un mystère, lancez <strong>2🎲+Charme</strong>.</p><p>Sur un 10+, il est disponible et vous aide : il est en mesure de réparer quelque chose, de casser un code, de pirater un ordinateur, ou de vous dégoter des informations bien précises.</p><p>Sur un 7-9, il est prêt à vous aider, mais cela lui prendra du temps ou vous devrez participer à l’effort.</p><p>En cas d’échec, vous brûlez vos cartouches</p>"
+		},
+		{
+			"id": "[Flake] Often Overlooked",
+			"name": "[Le Parano] Souvent Sous-Estimé",
+			"description": "<p>Quand <strong>vous faites n’importe quoi</strong> pour éviter quelque chose, lancez <strong>2🎲+Bizarre</strong>.</p><p>Sur un 10+, vous êtes perçu comme inoffensif et sans intérêt.</p><p>Sur un 7-9, au choix : inoffensif ou sans intérêt.</p><p>En cas d’échec, vous attirez une bonne partie de l’attention.</p>"
+		},
+		{
+			"id": "[Flake] See, It All Fits Together",
+			"name": "[Le Parano] Regardez, Tout colle",
+			"description": "<p>Vous pouvez utiliser Futé au lieu de Charme quand vous <strong>manipulez quelqu’un</strong>.</p>"
+		},
+		{
+			"id": "[Flake] Sneaky",
+			"name": "[Le Parano] Furtif",
+			"description": "<p>Quand vous <strong>attaquez dans le cadre d’une embuscade ou par-derrière</strong>, infligez +2 dégâts.</p>"
+		},
+		{
+			"id": "[Flake] Suspicious Mind",
+			"name": "[Le Parano] Esprit Soupçonneux",
+			"description": "<p>Quand quelqu’un vous ment, vous le savez.</p>"
+		}
+	]
+}

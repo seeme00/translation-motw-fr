@@ -1,0 +1,33 @@
+{
+	"label": "Vaurien: Background",
+	"entries": [
+		{
+			"id": "[Crooked] Assassin",
+			"name": "[Vaurien] Assassin"
+		},
+		{
+			"id": "[Crooked] Burglar",
+			"name": "[Vaurien] Cambrioleur"
+		},
+		{
+			"id": "[Crooked] Charlatan",
+			"name": "[Vaurien] Charlatan"
+		},
+		{
+			"id": "[Crooked] Fixer",
+			"name": "[Vaurien] Combinard"
+		},
+		{
+			"id": "[Crooked] Grifter",
+			"name": "[Vaurien] Escroc"
+		},
+		{
+			"id": "[Crooked] Hoodlum",
+			"name": "[Vaurien] Voyou"
+		},
+		{
+			"id": "[Crooked] Pickpocket",
+			"name": "[Vaurien] Pickpocket"
+		}
+	]
+}

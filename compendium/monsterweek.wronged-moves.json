@@ -1,0 +1,48 @@
+{
+	"label": "Le Vengeur: Manœuvres",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "[Wronged] Berserk",
+			"name": "[Le Vengeur] Berserk",
+			"description": "<p>: Peu importe les dégâts que vous subissez, vous pouvez toujours continuer à vous battre jusqu’à ce que le combat en cours soit terminé. </p><p>Pendant un combat, le Gardien ne peut pas utiliser des mouvements infligeant des dégâts contre vous et vous ne pouvez pas mourir. Mais, lorsque le combat prend fin, toutes les blessures prennent effet normalement.</p>"
+		},
+		{
+			"id": "[Wronged] DIY Surgery",
+			"name": "[Le Vengeur] Chirurgie Maison",
+			"description": "<p>Quand vous <strong>prodiguez les premiers soins à quelqu’un</strong> (y compris vous-même), lancez <strong>2🎲+Cool</strong>.</p><p>Sur un 10+, tout se passe comme prévu, sans compter que vous stabilisez la blessure et éliminez 1 dégât.</p><p>Sur un 7-9, vous prodiguez les premiers soins et, au choix :<ul><li>vous stabilisez la blessure, mais le patient subit -1 temporaire ;</li><li>éliminez 1 dégât et stabilisez temporairement le blessé, mais la blessure finira par se rouvrir (2 dégâts et instable).</li><li>éliminez 1 dégât et stabilisez le blessé, qui subit tout de même -1 constant jusqu’à être soigné correctement.</ul></p>"
+		},
+		{
+			"id": "[Wronged] Fervor",
+			"name": "[Le Vengeur] Ferveur",
+			"description": "<p>Quand vous <strong>manipulez quelqu’un</strong>, lancez <strong>2🎲+Coriace</strong> au lieu de <strong>2🎲+Charme</strong></p>"
+		},
+		{
+			"id": "[Wronged] I Know My Prey",
+			"name": "[Le Vengeur] Je Connais ma Proie",
+			"description": "<p>Vous gagnez +1 constant lorsque vous êtes conscient d’enquêter, de poursuivre ou de combattre l’espèce de monstre qui est à l’origine de vos souffrances.</p>"
+		},
+		{
+			"id": "[Wronged] NEVER AGAIN",
+			"name": "[Le Vengeur] Plus Jamais",
+			"description": "<p>En combat, vous pouvez protéger quelqu’un sans lancer les dés, comme si vous aviez obtenu un 10+, mais vous ne pouvez pas <strong>'subir moins de dégâts '</strong>.</p>"
+		},
+		{
+			"id": "[Wronged] Safety First",
+			"name": "[Le Vengeur] La Sécurité d'Abord",
+			"description": "<p>Vous vous êtes bricolé des protections supplémentaires, qui vous confèrent +1 armure (2 armure max.)..</p>"
+		},
+		{
+			"id": "[Wronged] Tools Matter",
+			"name": "[Le Vengeur] C'est une Question de Matériel",
+			"description": "<p>Vous gagnez +1 pour <strong>casser la gueule</strong> avec votre arme de prédilection (cf. votre équipement, ci-après).</p>"
+		},
+		{
+			"id": "[Wronged] What Does Not Kill Me...",
+			"name": "[Le Vengeur] Ce qui ne me tue pas...",
+			"description": "<p>Si vous avez subi des dégâts en combat, gagnez +1 constant jusqu’à la fin du combat.</p>"
+		}
+	]
+}

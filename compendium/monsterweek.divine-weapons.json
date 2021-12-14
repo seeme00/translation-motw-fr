@@ -1,0 +1,36 @@
+{
+	"label": "Le Divin: Equipement",
+	"mapping": {
+		"tags": {
+			"path": "data.tags",
+			"converter": "tags"
+		}
+	},
+	"entries": [
+		{
+			"id": "Five demon bag",
+			"name": "Sac des Cinq Pouvoirs",
+			"description": ""
+		},
+		{
+			"id": "Flaming sword",
+			"name": "Epée Enflammée",
+			"description": ""
+		},
+		{
+			"id": "Razor whip",
+			"name": "Fouet Barbelé",
+			"description": ""
+		},
+		{
+			"id": "Silver trident",
+			"name": "Trident en Argent",
+			"description": ""
+		},
+		{
+			"id": "Thunder hammer",
+			"name": "Marteau de Tonnerre",
+			"description": ""
+		}
+	]
+}

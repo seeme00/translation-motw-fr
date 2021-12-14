@@ -1,0 +1,56 @@
+{
+	"label": "L'Expert: Equipement",
+	"mapping": {
+		"tags": {
+			"path": "data.tags",
+			"converter": "tags"
+		}
+	},
+	"entries": [
+		{
+			"id": "Blessed knife",
+			"name": "Poignard Béni",
+			"description": ""
+		},
+		{
+			"id": "Cold iron sword",
+			"name": "Epée en Fer Froid",
+			"description": ""
+		},
+		{
+			"id": "Flamethrower",
+			"name": "Lance-Flammes",
+			"description": ""
+		},
+		{
+			"id": "Juju bag",
+			"name": "Sac de Grigris",
+			"description": ""
+		},
+		{
+			"id": "Magical dagger",
+			"name": "Dague Magique",
+			"description": ""
+		},
+		{
+			"id": "Magnum",
+			"name": "Magnum",
+			"description": ""
+		},
+		{
+			"id": "Mallet & wooden stakes",
+			"name": "Pieux en bois et Maillet",
+			"description": ""
+		},
+		{
+			"id": "Shotgun",
+			"name": "Fusil à Pompe",
+			"description": ""
+		},
+		{
+			"id": "Silver sword",
+			"name": "Epée en Argent",
+			"description": ""
+		}
+	]
+}

@@ -1,0 +1,51 @@
+{
+	"label": "Le Monstre: Equipement",
+	"mapping": {
+		"tags": {
+			"path": "data.tags",
+			"converter": "tags"
+		}
+	},
+	"entries": [
+		{
+			"id": ".38 revolver",
+			"name": "Revolver .38",
+			"description": ""
+		},
+		{
+			"id": "9mm",
+			"name": "9mm",
+			"description": ""
+		},
+		{
+			"id": "Big knife",
+			"name": "Couteau de Chasse",
+			"description": ""
+		},
+		{
+			"id": "Brass knuckles",
+			"name": "Coup de point Américain",
+			"description": ""
+		},
+		{
+			"id": "Huge sword",
+			"name": "Grande Epée",
+			"description": ""
+		},
+		{
+			"id": "Magnum",
+			"name": "Magnum",
+			"description": ""
+		},
+		{
+			"id": "Shotgun",
+			"name": "Fusil à Pompe",
+			"description": ""
+		},
+		{
+			"id": "Sword",
+			"name": "Epée",
+			"description": ""
+		}
+	]
+}

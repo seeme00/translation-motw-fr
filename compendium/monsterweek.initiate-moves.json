@@ -1,0 +1,53 @@
+{
+	"label": "L'Initié: Manœuvres",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "[Initiate] Ancient Fighting Arts",
+			"name": "[L'Initié] Arts de Combat Anciens",
+			"description": "<p>Quand vous utilisez une arme ancienne d'allonge, vous infligez +1 dégât et gagnez +1 chaque fois que vous effectuez un jet pour <strong>protéger quelqu'un</strong></p>"
+		},
+		{
+			"id": "[Initiate] Apprentice",
+			"name": "[L'Initié] Apprenti",
+			"description": "<p>Vous avez un apprenti. Nommez-le.</p><p> Votre travail consiste à le former aux us et coutumes de la secte. Il compte comme un <strong>allié: subordonné</strong> (motivation: suivre vos instructions à la lettre).</p>"
+		},
+		{
+			"id": "[Initiate] Fortunes",
+			"name": "[L'Initié] Prédictions",
+			"description": "<p>La secte connaît de vieilles prophéties et techniques de divination. Une fois par mystère, vous pouvez y faire appel.</p><p>Si vous <strong>cherchez ce que l'avenir vous réserve</strong>, lancez <strong>2🎲+Bizarre</strong>.</p><p>Sur 10+, réserve 3.</p><p>Sur 7-9, réserve 1.</p><p>En cas d'échec, vous recevez des informations erronées et le Gardien décide en quoi cela vous affecte.</p><p>Dépensez votre réserve pour:<ul><li>Disposer d'un objet utile.</li><li>Vous trouver au bon endroit au bon moment</li><li>Gagner +1 temporaire, ou donner +1 temporaire à un autre chasseur.</li><li>Prévenir rétroactivement quelqu'un d'une attaque, afin qu'elle n'ait pas lieu</li></ul></p>"
+		},
+		{
+			"id": "[Initiate] Helping Hand",
+			"name": "[L'Initié] Main Secourable",
+			"description": "<p>Quand vous parvenez à <strong>donner un coup de main</strong> à un autre chasseur, il gagne +2 au lieu de l'habituel +1.</p>"
+		},
+		{
+			"id": "[Initiate] Mentor",
+			"name": "[L'Initié] Mentor",
+			"description": "<p>Vous avez un mentor au sein de la secte. Nommez-le. Quand vous <strong>contactez votre mentor pour obtenir des renseignements</strong>, lancez <strong>2🎲+Futé</strong>.</p><p>Sur un +10, vous obtenez une réponse à votre question.</p><p>Sur un 7-9, à vous de choisir: la secte est trop occupée pour vous aider ou elle accepte de vous répondre en échange d'une faveur.</p><p>En cas d'échec, votre question pose un problème.</p>"
+		},
+		{
+			"id": "[Initiate] Mystic",
+			"name": "[L'Initié] Mystique",
+			"description": "<p>Chaque fois que vous <strong>utilisez la magie</strong> avec succès, gagnez +1 temporaire.</p>"
+		},
+		{
+			"id": "[Initiate] Sacred Oath",
+			"name": "[L'Initié] Vœu Sacré",
+			"description": "<p>Vous pouvez vous attacher à un objectif précis en faisant vœu d'abstinence (et ainsi vous abstenir de parler, de vous nourrir autrement que de l'eau et du pain, de boire de l'alcool, de mentir, d'avoir des rapports secuels, etc...).</p><p>Veillez à en parler avec le Gardien, cela doit correspondre à l'importance et à la difficulté de votre objectif.</p><p>Tant que vous respectez votre vœu et œuvrez à la réalisation de votre objectif, cochez de l'expérience à la fin de chaque séance et gagnez +1 sur tout jet qui vous aide directement à remplir votre objectif. Si vous brisez votre vœu, subissez -1 onstant jusqu'à ce que vous ayez expié.</p>"
+		},
+		{
+			"id": "[Initiate] Start of Mystery",
+			"name": "[L'Initié] Reconnu auprès de la secte",
+			"description": "<p>Quand vous êtes <strong>reconnu auprès de votre secte</strong>, lancez <strong>2🎲+Charme au début de chaque mystère</strong>.</p><p>Sur 10+, elle vous offre des informations utiles ou une aide sur le terrain.</p><p>Sur un 7-9, vous recevez une mission liée au mystère, qui vous vaudra aussi des informations ou de l'aide si vous la réussissez.</p><p>En cas d'échec, il vous est demandé de faire quelque chose de mal. Si vous ratez la mission, ou refusez d'exécuter un ordre, vous aurez des problèmes avec la secte jusqu'à ce que vous vous soyez racheté.</p>"
+		},
+		{
+			"id": "[Initiate] That Old Black Magic",
+			"name": "[L'Initié] Cette Bonne Vieille Magie Noire",
+			"description": "<p>Quand vous <strong>utilisez de la magie</strong>, vous pouvez poser une question de la manœuvre <strong>enquêter sur un mystère</strong> comme effet.</p>"
+		}
+	]
+}

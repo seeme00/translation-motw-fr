@@ -1,0 +1,63 @@
+{
+	"label": "Le Magicien: Manœuvres",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "[Spell-Slinger] Advanced Arcane Training",
+			"name": "[Le Magicien] Instruction Esotérique Avancée",
+			"description": "<p>Si vous êtes en mesure d’utiliser deux de vos trois <strong>outils et techniques</strong>, vous pouvez ignorer le troisième.</p>"
+		},
+		{
+			"id": "[Spell-Slinger] Arcane Reputation",
+			"name": "[Le Magicien] Réputation Esotérique",
+			"description": "<p>: choisissez trois organisations ou groupes de bonne taille de la communauté surnaturelle, qui peuvent inclure des types de monstres relativement sociaux. Ces organisations ont entendu parler de vous et respectent votre puissance.</p><p>Gagnez +1 temporaire quand vous <strong>manipulez</strong> les humains concernés. Vous pouvez aussi <strong>manipuler</strong> les monstres concernés, sans bonus cependant.</p>"
+		},
+		{
+			"id": "[Spell-Slinger] Could've Been Worse",
+			"name": "[Le Magicien] Ca aurait pu etre pire",
+			"description": "<p>Quand vous ratez un jet d’<strong>utiliser la magie</strong>, vous pouvez prendre l’une des options suivantes plutôt que de perdre le contrôle de votre magie :<ul><li>Pétard mouillé : les préparatifs ne servent à rien et le matériel est gâché, vous devez tout recommencer et le temps de préparation est doublé.</li><li>Ca craint : l’effet se déroule comme prévu, mais vous subissez tous les pépins sauf un. Choisissez celui que vous évitez.</li></ul></p>"
+		},
+		{
+			"id": "[Spell-Slinger] Enchanted Clothing",
+			"name": "[Le Magicien] Vêtements Enchantés",
+			"description": "<p>Choisissez un vêtement que vous portez quotidiennement. Il est enchanté (bien que son apparence ne change pas). Tout ce qui tente de passer à travers (magie comprise) vous inflige -1 dégât.</p>"
+		},
+		{
+			"id": "[Spell-Slinger] Forensic Divination",
+			"name": "[Le Magicien] Divination Médico-Légale",
+			"description": "<p>Quand vous <strong>enquêtez sur un mystère</strong>, vous pouvez demander gratuitement : 'Quelle magie a été mise en œuvre ici?'</p>"
+		},
+		{
+			"id": "[Spell-Slinger] Go Big or Go Home",
+			"name": "[Le Magicienr] Dépasse-toi ou Rentre Chez toi",
+			"description": "<p>Quand vous devez <strong>utiliser la magie</strong> dans le cadre de la magie souveraine, gagnez +1 constant aux jets d’<strong>utiliser la magie</strong></p>"
+		},
+		{
+			"id": "[Spell-Slinger] Not My Fault",
+			"name": "[Le Magicien] C'est pas ma Faute",
+			"description": "<p>+1 pour <strong>agir sous pression</strong> quand vous devez gérer les conséquences de vos incantations.</p>"
+		},
+		{
+			"id": "[Spell-Slinger] Practitioner",
+			"name": "[Le Magicien] Pratiquant",
+			"description": "<p>Choisissez deux effets de la manœuvre <strong>utiliser la magie</strong>. Gagnez +1 pour <strong>utiliser la magie</strong> quand vous choisissez un de ces effets.</p>"
+		},
+		{
+			"id": "[Spell-Slinger] Shield Spell",
+			"name": "[Le Magicien] Bouclier Magique",
+			"description": "<p>Quand vous <strong>protégez quelqu’un</strong>, gagnez armure 2 contre tout dégât qui vous est transféré. Non cumulable avec une autre armure.</p>"
+		},
+		{
+			"id": "[Spell-Slinger] Third Eye",
+			"name": "[Le Magicien] Troisième œil",
+			"description": "<p>Quand vous <strong>évaluez une situation qui craint</strong>, vous pouvez ouvrir votre troisième œil un instant pour gagner des informations supplémentaires.</p><p>Gagnez +1 réserve sur un résultat de 7+ et vous voyez en plus tout ce qui est invisible.</p><p>En cas d’échec, vous pouvez gagner réserve 1, mais vous êtes alors à la merci d’un danger d’origine surnaturelle.</p><p>Privée de filtre, la réalité n’est pas tendre avec l’esprit!</p>"
+		},
+		{
+			"id": "[Spell-Slinger] Tools and Techniques",
+			"name": "[Le Magicien] Outils et Techniques",
+			"description": "<p>Pour utiliser votre magie de combat au mieux, vous disposez de tout un ensemble d’outils et de techniques. Si vous faites sans, il y a des inconvénients. Rayez-en une, vous aurez besoin des autres.</p><p><ul><li>Consommables : vous avez besoin de certaines composantes (poudres, huiles, etc.), qui sont détruites quand vous lancez un sort. Si vous ne les avez pas sous la main, c’est vous qui les remplacez. Subissez alors : 1 dégât, ignore armure.</li> <li>Focaliseurs : vous avez besoin de baguettes, de bâtons et autres accessoires pour vous concentrer.</p><p>Si vous n’en avez pas, votre magique de combat inflige -1 dégât.</li> <li>Gestes : vous devez être en mesure de faire certains gestes pour utiliser votre magie de combat. Si vous en êtes incapable, rien ne vous empêche de lancer le sort, mais les choses risquent de ne pas se passer comme prévu.</p><p>Votre magie de combat subit alors -1 constant.</li> <li>Incantations : vous devez parler dans une langue ésotérique pour canaliser votre magique sans qu’elle ne filtre directement de votre esprit.</p><p>Si vous utilisez votre magie de combat alors que vous ne pouvez ou ne voulez parler, vous devez aussitôt <strong>agir sous pression</strong> pour éviter de vous embrouiller (hallucinations, privation sensorielle, grande confusion).</li></ul></p>"
+		}
+	]
+}

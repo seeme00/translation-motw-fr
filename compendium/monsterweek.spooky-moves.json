@@ -1,0 +1,48 @@
+{
+	"label": "L'Epouvantail: Manœuvres",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "[Spooky] Hex",
+			"name": "[L'Epouvantail] Malédiction",
+			"description": "<p>Quand vous lancez un sort (en <strong>utilisant la magie</strong>), choisissez un des effets suivants (qui s'ajoute à l'effet habituel):<ul><li>La cible tombe malade.</li><li>La cible subit immédiatement des dégâts (2 dégâts, magique, ignore l'armure).</li><li>La cible brise un objet précieux ou important.</li></ul></p>"
+		},
+		{
+			"id": "[Spooky] Hunches",
+			"name": "[L'Epouvantail] Pressentiments",
+			"description": "<p><strong>Quand quelque chose de mal arrive</strong> (ou est sur le point d'arrivert) quelque part où vous ne vous trouvez pas, lancez <strong>2🎲+Futé</strong>.</p><p>Sur un 10+, vous découvrez où vous rendre juste à temps pour y parvenir.</p><p>Sur un 7-9, vous arrivez à temps pour intervenir, mais pas pour l'empêcher complètement.</p><p>En cas d'échec, vous arrivez à temps pour vous retrouver dans la mouise.</p>"
+		},
+		{
+			"id": "[Spooky] Jinx",
+			"name": "[L'Epouvantail] Poisse",
+			"description": "<p>Vous créez des coïncidences. Quand vous <strong>portez la poisse à une cible</strong>, lancez <strong>2🎲+Bizarre</strong>.</p><p>Sure un 10+, réserve 2.</p><p>Sur un 7-9, réserve 1.</p><p>En cas d'échec, le Gardien gagne réserve 2 contre vous et peut l'utiliser de la même façon.</p><p>Dépensez votre réserve pour:<ul><li>Interférer avec un chasseur pour lui donner -1 temporaire.</li><li>Aider un chasseur pourlui donner +1 tremporaire en interférant avec son adversaire.</li><li>Interérer avec ce qu'un monstre, sbire ou figurant tente de faire.</li><li>Provoquer un accident qui infliuge 1 dégât à la cible.</li><li>La cible trouve quelque chose que vous lui avez laissé.</li><li>La cible perd quelque chose que vous n'allez pas tarder à trouver</li></ul></p>"
+		},
+		{
+			"id": "[Spooky] Premonitions",
+			"name": "[L'Epouvantail] Prémonitions",
+			"description": "<p><strong>Au début de chaque mystère</strong>, lancez <strong>2🎲+Bizarre</strong>.</p><p>Sur un 10+, vous obtenez une vision détaillée d'un sale événement qui ne s'est pas encore déroulé. Gagnez +1 temporaore pour empêcher qu'il ne se réalise, et cochez d el'expérience si vous l'empêchez.</p><p>Sur un 7-9, vous recevez des images confuses; cochez de l'expérience si vous l'empêchez.</p><p>En cas d'échec, vous recevez une vision de mauvais augure vous concernant et le Gardien gagne réserve 3, qu'il peut assigner comme pénalité à vos jets (il ne peut assigner qu'un unique -1 par jet).</p>"
+		},
+		{
+			"id": "[Spooky] Telepathy",
+			"name": "[L'Epouvantail] Télépathie",
+			"description": "<p>Vous pouvez lire les pensées des gens et glisser des mots dans leur esprit. Cela peut vous permettre d'<strong>enquêter sur un mystère</strong> ou d'<strong>évaluer une situation qui craint</strong> sans être obligé de parler. </p><p>Vous pouvez également <strong>manipuler qulqu'un</strong> sans parler. Vous jouez les manœuvres normalement, si ce n'est que les gens seront certainement étonnés par cette forme de communication mentale.</p>"
+		},
+		{
+			"id": "[Spooky] The Big Whammy",
+			"name": "[L'Epouvantail] Gros Coup",
+			"description": "<p>Vous pouvez utiliser vos pouvoirs pour <strong>casser la gueule à quelqu'un</strong>. Lancez <strong>2🎲+Bizarre</strong> au lieu de <strong>2🎲+Coriace</strong>.</p><p>L'attaque prend la forme suivante: 2 dégâts, proche, évident, ignore l'armure.</p><p>En cas d'échec, vous subissez un contrecoup magique.</p>"
+		},
+		{
+			"id": "[Spooky] The Sight",
+			"name": "[L'Epouvantail] Double Vue",
+			"description": "<p>Vous voyez l'invisible, notamment les esprits et les influences magiques.</p><p>Vous pouvez communiquer, voire négocier, aves les esprits que vous voyez, qui vous donnent plus de chances de remarquer des indices quand vous <strong>enquêtez sur un mystère</strong>.</p>"
+		},
+		{
+			"id": "[Spooky] Tune In",
+			"name": "[L'Epouvantail] A l'Ecoute",
+			"description": "<p>Vous pouvez <strong>accorder votre esprit sur un monstre ou un sbire</strong>. Lancez <strong>2🎲+Bizarre</strong>.</p><p>Sur un 10+, réserve 3.</p><p>Sur un 7-9, réserve 1.</p><p>En cas d'échec, le monstre est conscient de votre présence.</p><p>Dépensez 1 réserve pour poser une des questions suivantes au Gardien, et gagnez +1 constant quand vous agissez en rapport avec les réponses:<ul><li>Où se trouve la créature en ce moment même?</li><li>Que compte-t-elle faire en ce moment même?</li><li>Qui sera la cible de sa prochaine attaque?</li><li>Qui considère-t-elle comme la menace la plus importante?</li><li>Comment puis-je attirer son attention?</li></ul></p>"
+		}
+	]
+}

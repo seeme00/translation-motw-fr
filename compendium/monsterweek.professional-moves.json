@@ -1,0 +1,48 @@
+{
+	"label": "Le Professionnel: Manœuvres",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "[Professional] Battlefield Awareness",
+			"name": "[Le Professionnel] Conscience du Champ de Bataille",
+			"description": "<p>Vous savez toujours ce qui se passe autour de vous et ce dont il faut vous méfier.</p><p>Gagnez +1 armure (armure 2 max.). en plus de ce que vous confère votre équipement.</p>"
+		},
+		{
+			"id": "[Professional] Bottle It Up",
+			"name": "[Le Professionnel] Ne Montre Rien",
+			"description": "<p>Si vous le souhaitez, vous pouvez prendre jusqu’à +3 bonus quand vous <strong>agissez sous pression</strong>. Pour chaque +1 utilisé, le Gardien gagne réserve 1.</p><p>Cette réserve peut être dépensée plus tard pour vous donner -1 à une manœuvre, sauf quand vous <strong>agissez sous pression</strong>.</p>"
+		},
+		{
+			"id": "[Professional] Deal with the Agency",
+			"name": "[Le Professionnel] Se tourner vers l'Agence",
+			"description": "<p>Quand vous vous <strong>tournez vers l’agence</strong>, pour demander de l’aide ou de l’équipement, ou vous excuser pour un échec, <strong>2🎲+Futé</strong>.</p><p>Sur un 10+, c’est tout bon : votre demande en matériel ou personnel est validée, ou votre faute passe inaperçue.</p><p>Sur un 7-9, les choses se corsent : vous vous faites souffler dans les bronches par vos supérieurs et il y a des répercussions, mais vous obtenez ce dont vous avez besoin.</p><p>En cas d’échec, vous avez merdé : vous êtes suspendu, faites l’objet d’une enquête ou n’êtes plus en odeur de  sainteté.</p><p>Peu de chance que vous receviez de l’aide avant d’avoir réglé tout ça.</p>"
+		},
+		{
+			"id": "[Professional] Leave No One Behind",
+			"name": "[Le Professionnel] On ne Laisse Personne Derrière",
+			"description": "<p>Au combat, quand vous <strong>aidez quelqu’un à s’enfuir</strong>, <strong>2🎲+Futé</strong>.</p><p>Sur un 10+, l’intéressé s’en sort sans problème.</p><p>Sur un 7-9, il s’en sort ou ne subit pas de dégâts, comme vous voulez.</p><p>En cas d’échec, vous ne lui permettez pas de s’enfuir et vous attirez l’attention de l’ennemi.</p>"
+		},
+		{
+			"id": "[Professional] Medic",
+			"name": "[Le Professionnel] Toubib'",
+			"description": "<p>Vous possédez une trousse de premiers secours et êtes capable de soigner les gens. Quand vous <strong>prodiguez les premiers soins</strong>, lancez <strong>2🎲+Cool</strong>.</p><p>Sur un 10+, le patient est stabilisé et élimine 2 dégâts.</p><p>Sur un 7-9, éliminez 2 dégâts ou stabilisez le patient.</p><p>En cas d’échec, vous infligez 1 dégât supplémentaire. Cette manœuvre remplace les premiers soins habituels.</p>"
+		},
+		{
+			"id": "[Professional] Mobility",
+			"name": "[Le Professionnel] Mobilité",
+			"description": "<p>Vous avez un véhicule (camion, van ou voiture) adapté à la chasse aux monstres.</p><p>Choisissez deux qualités et un défaut :<ul><li> Qualités : spacieux, matériel de surveillance, rapide, discret, intimidant, classique,  antenne médicale, couchage, réserve d’outils, armes dissimulées, anonyme, blindé (+1 armure à l’intérieur), robuste, cage à monstre.</p><p></li><li>Défauts : bruyant, voyant, capricieux, esquinté, gourmand en carburant, inconfortable, lent, vieux</li></ul></p>"
+		},
+		{
+			"id": "[Professional] Tactical Genius",
+			"name": "[Le Professionnel] Génie Tactique",
+			"description": "<p>Quand vous <strong>évaluez une situation qui craint</strong>, vous pouvez lancer <strong>2🎲+Cool</strong> au lieu de <strong>2🎲+Futé</strong>.</p>"
+		},
+		{
+			"id": "[Professional] Unfazeable",
+			"name": "[Le Professionnel] Imperturbable",
+			"description": "<p>Gagnez +1 Cool (+3 max.)..</p>"
+		}
+	]
+}

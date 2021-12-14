@@ -1,0 +1,26 @@
+{
+	"label": "Le Magicien: Equipement",
+	"mapping": {
+		"tags": {
+			"path": "data.tags",
+			"converter": "tags"
+		}
+	},
+	"entries": [
+		{
+			"id": "Heirloom sword",
+			"name": "Epée Familiale",
+			"description": ""
+		},
+		{
+			"id": "Old revolver",
+			"name": "Vieux Revolver",
+			"description": ""
+		},
+		{
+			"id": "Ritual knife",
+			"name": "Dague Rituelle",
+			"description": ""
+		}
+	]
+}
