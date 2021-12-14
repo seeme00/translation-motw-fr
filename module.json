@@ -2,7 +2,7 @@
   "name": "translation-motw-fr",
   "title": "MoTW Fr Translation",
   "description": "Add French language to MoTW system for FoundryVTT.",
-  "version": "0.1",
+  "version": "0.3",
   "minimumCoreVersion" : "0.8.5",
   "compatibleCoreVersion":"0.8.9",
 
