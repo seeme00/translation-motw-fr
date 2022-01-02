@@ -4,7 +4,7 @@
   "description": "Add French language to MoTW system for FoundryVTT.",
   "version": "0.3",
   "minimumCoreVersion" : "0.8.5",
-  "compatibleCoreVersion":"0.8.9",
+  "compatibleCoreVersion":"9",
 
   "systems": [
     "monsterweek"
