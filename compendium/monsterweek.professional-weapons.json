@@ -2,7 +2,7 @@
 	"label": "Le Professionnel: Equipements",
 	"mapping": {
 		"tags": {
-			"path": "data.tags",
+			"path": "system.tags",
 			"converter": "tags"
 		}
 	},

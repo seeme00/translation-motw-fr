@@ -1,7 +1,7 @@
 {
 	"label": "L'Epouvantail: Manœuvres",
 	"mapping": {
-		"description": "data.description"
+		"description": "system.description"
 	},
 	"entries": [
 		{

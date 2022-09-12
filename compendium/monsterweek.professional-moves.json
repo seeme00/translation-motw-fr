@@ -1,7 +1,7 @@
 {
 	"label": "Le Professionnel: Manœuvres",
 	"mapping": {
-		"description": "data.description"
+		"description": "system.description"
 	},
 	"entries": [
 		{

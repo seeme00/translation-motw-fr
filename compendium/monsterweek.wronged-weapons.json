@@ -2,10 +2,10 @@
 	"label": "Le Vengeur: Equipement",
 	"mapping": {
 		"tags": {
-			"path": "data.tags",
+			"path": "system.tags",
 			"converter": "tags"
 		},
-		"description": "data.description"
+		"description": "system.description"
 	},
 	"entries": [
 		{

@@ -1,8 +1,8 @@
 {
 	"label": "Livrets de chasseurs",
 	"mapping": {
-		"background": "data.background",
-		"holds": "data.holds"
+		"background": "system.background",
+		"holds": "system.holds"
 	},
 	"entries": [
 		{

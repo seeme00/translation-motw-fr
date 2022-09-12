@@ -2,13 +2,13 @@
 	"label": "Vaurien: Equipement",
 	"mapping": {
 		"tags": {
-			"path": "data.tags",
+			"path": "system.tags",
 			"converter": "tags"
 		}
 	},
 	"mapping": {
 		"tags": {
-			"path": "data.tags",
+			"path": "system.tags",
 			"converter": "tags"
 		}
 	},

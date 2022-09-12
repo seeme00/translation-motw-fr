@@ -2,7 +2,7 @@
 	"label": "L'Epouvantail: Equipement",
 	"mapping": {
 		"tags": {
-			"path": "data.tags",
+			"path": "system.tags",
 			"converter": "tags"
 		}
 	},

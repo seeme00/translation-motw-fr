@@ -1,7 +1,7 @@
 {
 	"label": "Le Divin: Manœuvres",
 	"mapping": {
-		"description": "data.description"
+		"description": "system.description"
 	},
 	"entries": [
 		{

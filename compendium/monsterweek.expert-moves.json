@@ -1,7 +1,7 @@
 {
 	"label": "L'Expert: Manœuvres",
 	"mapping": {
-		"description": "data.description"
+		"description": "system.description"
 	},
 	"entries": [
 		{
